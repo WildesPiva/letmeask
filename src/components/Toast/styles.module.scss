@@ -1,0 +1,10 @@
+.buttonClose {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #ee5569;
+    transition: all .2s;
+    &:hover {
+        filter: brightness(.9);
+    }
+}
